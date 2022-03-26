@@ -1,6 +1,6 @@
 - 👋 Hi, I’m BITTU SINGH
 - 👀 I’m interested in PROGRAMMING & BUSINESS
-- 🌱 I’m currently learning React-Native
+- 🌱 I’m currently learning Flutter & Data Science
 - 💞️ I’m looking to collaborate on Anroid Development Projects
 - 📫 You can reach me on https://www.linkedin.com/in/bittu-singh-2903/
 
