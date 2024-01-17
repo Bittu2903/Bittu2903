@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bittu Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 
-<img align="right" alt="Coding bittu singh" width="400" src="[https://komarev.com/ghpvc/?username=bittu2903&label=Profile%20views&color=0e75b6&style=flat](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)"/>
+<img align="right" alt="Coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif"/>
 
 - 🌱 I’m currently learning **DSA, Django and Node,js**
 
