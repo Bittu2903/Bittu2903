@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bittu2903&show_icons=true&locale=en&layout=compact" alt="bittu2903" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bittu2903&show_icons=true&locale=en" alt="bittu2903" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bittu2903&" alt="bittu2903" /></p>
