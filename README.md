@@ -1,4 +1,4 @@
-[![MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/08/devstory_dribbble_01-1549919968.gif)](https://github.com/Bittu2903)
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://github.com/Bittu2903)
 <h1 align="center">Hi 👋, I'm Bittu Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 
