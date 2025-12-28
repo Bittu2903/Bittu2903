@@ -4,15 +4,13 @@
 
 <img align="center" alt="Coding" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif"/>
 
-- 🌱 I’m currently learning **DSA, Django and Node,js*
+- 🌱 I’m currently learning **System Design, Django and DevOps*
 
 - 📝 I regularly write articles on [https://medium.com/@bittusinghtech/](https://medium.com/@bittusinghtech/)
 
-- 💬 Ask me about **React.js, Node.js, Python, GoLang*
+- 💬 Ask me about **React.js, Node.js, Python, FastAPI, AWS, GoLang*
 
 - 📫 How to reach me **bittusinghtech@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1er2fqkD00hex81DAAkwvG95PpAvE7u_L/view?usp=sharing](https://drive.google.com/file/d/1er2fqkD00hex81DAAkwvG95PpAvE7u_L/view?usp=sharing)
 
 - ⚡ Fun fact **Reaching every growth opportunity possible**
 
